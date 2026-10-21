@@ -258,4 +258,4 @@ This repository serves as the official landing page for Baidu Antivirus. The sof
 **Get the most recent version of Baidu Antivirus today!**
 
 ---
-**Last updated:** 2026-10-20 22:10:08 UTC
+**Last updated:** 2026-10-21 01:19:22 UTC
